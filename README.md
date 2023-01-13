@@ -1,4 +1,4 @@
-Dashboard
+#Dashboard
 This dashboard was developed using Java and the Vaadin framework, with Gradle as the dependency manager. It allows for data visualization using interactive graphs, dashboards, a weather widget, a clock, and other features.
 
 Prerequisites
